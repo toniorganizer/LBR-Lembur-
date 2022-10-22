@@ -1,0 +1,15 @@
+Sistem perhitungan lembur
+
+1. sistem terdiri dari 2 users, admin dan employee
+2. Admin dibuat untuk melihat dan mengelola data gaji dan data lembur employee
+3. Akun admin : admin@gmail.com PS:12345678
+4. Akun employee terdaftar :
+   1. bagus@gmail.com PS:12345
+   2. nanang@gmail.com PS:12345
+5. Pada tabel kami tambahkan untuk menjadi parameter pehitungan total waktu lembur employee
+6. Tabel References dan Settings tidak digunakan karena penjelasan kurang detail kegunaan dari dua tabel tersebut
+7. Sistem dibuat menggunakan bantuan framework laravel
+8. Mohon maaf belum membuat menggunakan swagger, karena belum terbiasa menggunakan nya. Karena jika dipaksakan menggunakan Swager akan sedikit membutuhkan waktu karena belum terbiasa menggunakan dan waktu pun cukup singkat.
+9. Jika pada saat bekerja nanti di haruskan menggunakan Swager, Saya yakin kurang dari seminggu saya akan menguasai swager.
+10. Terima kasih atas kesempatan yang diberikan, saya sangat berharap bisa bergabung dan bisa memberikan kontribusi terbaik untuk perusahaan.
+11. Detail petunjuk penggunaan sistem ada di file Petunuk penggunaan sistem.pdf
